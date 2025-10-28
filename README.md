@@ -7,4 +7,4 @@ House price prediction
 
 ## Classification project 
 
-<</https://www.labellerr.com/blog/top-open-source-vision-language-models/>>
+https://www.labellerr.com/blog/top-open-source-vision-language-models
