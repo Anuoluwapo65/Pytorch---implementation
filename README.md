@@ -6,3 +6,5 @@ Projecting relating to Ml Zoomcamp questions.
 House price prediction
 
 ## Classification project 
+
+<</https://www.labellerr.com/blog/top-open-source-vision-language-models/>>
